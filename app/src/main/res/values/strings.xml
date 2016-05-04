@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyAppContact</string>
+    <string name="form_nombre">Nombre Completo </string>
+    <string name="form_tel">Telefono </string>
+    <string name="form_mail">Mail </string>
+    <string name="form_desc">Descripcion Contacto</string>
+    <string name="buttonSgte">Siguiente</string>
+    <string name="textButtonEdit">Editar Datos</string>
+    <string name="textconfirmDatos">Confirmar Datos</string>
+    <string name="textConfNombre">Nombre :</string>
+    <string name="textConfTel">tel:</string>
+    <string name="textConfMail">Mail:</string>
+    <string name="textConfDate">Fecha de nacimiento:</string>
+    <string name="textConfDesc">Decripcion:</string>
+</resources>
